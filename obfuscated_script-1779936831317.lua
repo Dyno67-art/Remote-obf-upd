@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://obfuscatorhub.onrender.com/api/cu6a62ig"))()
+loadstring(game:HttpGet("https://obfuscatorhub.onrender.com/api/atz13105"))()
